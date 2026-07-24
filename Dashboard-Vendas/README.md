@@ -28,10 +28,8 @@ Dashboard desenvolvido para análise comercial, permitindo acompanhar vendas, cu
 - Preço Médio e Mediana por Departamento
 - Quantidade Vendida por Cidade e Departamento
 
-## Preview
-
-<img src="./dashboard-vendas.png" alt="Dashboard Executivo de Vendas" width="900">
-
 ## Visualização
 
-📄 [Abrir Dashboard Executivo de Vendas em PDF](./dashboard-vendas.pdf)
+📄 **Baixar Dashboard Executivo de Vendas (PDF)**
+
+➡️ [Clique aqui para abrir o PDF](dashboard-vendas.pdf)
