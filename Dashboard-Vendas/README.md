@@ -21,11 +21,17 @@ Dashboard desenvolvido para análise comercial, permitindo acompanhar vendas, cu
 - Margem (%)
 - Evolução Mensal das Vendas
 - Resultado Anual x Meta
+- Quantidade Vendida por Loja
+- Acumulado Móvel de Vendas
+- Participação por Perfil de Idade
+- Melhor Dia de Venda por Ano
+- Preço Médio e Mediana por Departamento
+- Quantidade Vendida por Cidade e Departamento
 
 ## Preview
 
-![Dashboard Vendas](dashboard-vendas.png)
+![Dashboard Vendas](Dashboard vendas.png)
 
 ## Visualização
 
-📄 [Abrir Dashboard Executivo de Vendas](dashboard-vendas.pdf)
+📄 [Abrir Dashboard Executivo de Vendas (PDF)](Dash de vendas.pdf)
