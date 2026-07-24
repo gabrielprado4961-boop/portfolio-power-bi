@@ -2,7 +2,7 @@
 
 # 📊 Portfólio de Projetos em Power BI
 
-Bem-vindo ao meu portfólio!
+Bem-vindo ao meu portfólio de projetos em Power BI!
 
 Este repositório reúne projetos desenvolvidos com foco em **Business Intelligence** e **Análise de Dados**, aplicando técnicas de modelagem dimensional, criação de indicadores (KPIs), DAX, Power Query e visualização de dados para apoiar a tomada de decisão.
 
