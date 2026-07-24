@@ -30,8 +30,8 @@ Dashboard desenvolvido para análise comercial, permitindo acompanhar vendas, cu
 
 ## Preview
 
-![Dashboard Vendas](Dashboard vendas.png)
+![Dashboard Vendas](Dashboard%20vendas.png)
 
 ## Visualização
 
-📄 [Abrir Dashboard Executivo de Vendas (PDF)](Dash de vendas.pdf)
+📄 [Abrir Dashboard Executivo de Vendas (PDF)](Dash%20de%20vendas.pdf)
