@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Dashboard desenvolvido para análise dos principais indicadores de Recursos Humanos, permitindo acompanhar informações estratégicas sobre colaboradores, desempenho, treinamentos e distribuição da força de trabalho.
+Dashboard desenvolvido para análise dos principais indicadores de Recursos Humanos, permitindo acompanhar métricas de colaboradores, admissões, desligamentos, desempenho e indicadores estratégicos para apoio à tomada de decisão.
 
 ## Tecnologias
 
@@ -14,18 +14,20 @@ Dashboard desenvolvido para análise dos principais indicadores de Recursos Huma
 
 ## Indicadores
 
-- Total de Funcionários
-- Colaboradores Ativos
-- Salário Médio
-- Média de Treinamentos
-- Horas Extras
-- Performance dos Colaboradores
-- Distribuição por Gênero
-- Faixa Etária
-- Tipo de Contrato
-- Departamento
-- Cargo
+- Total de Colaboradores
+- Admissões
+- Desligamentos
+- Turnover
+- Absenteísmo
+- Média Salarial
+- Distribuição por Departamento
+- Distribuição por Cargo
+- Evolução dos Indicadores
+- Indicadores por Unidade
+- Análises Comparativas
 
 ## Visualização
 
-📄 Dashboard Executivo de RH.pdf
+📄 **Baixar Dashboard Executivo de RH (PDF)**
+
+➡️ [Clique aqui para abrir o PDF](dashboard-rh.pdf)
